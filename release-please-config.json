@@ -1,7 +1,7 @@
 {
   "include-component-in-tag": false,
   "release-type": "ruby",
-  "skip-github-release": false,
+  "skip-github-release": true,
   "packages": {
     ".": {
       "release-type": "ruby",
