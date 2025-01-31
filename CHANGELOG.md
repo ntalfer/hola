@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.1.0](https://github.com/ntalfer/hola/compare/v3.0.1...v3.1.0) (2025-01-31)
+
+
+### Features
+
+* **hj:** khkh ([3e9b378](https://github.com/ntalfer/hola/commit/3e9b378abcd1984aff982fb1aaf18aae1413e47a))
+
+
+### Bug Fixes
+
+* **sfdg:** h ([2a3163d](https://github.com/ntalfer/hola/commit/2a3163d6affaed5d5b203538c89216745d2f0b36))
+
+
+### Miscellaneous Chores
+
+* release 3.1.0.rc1 ([bdcc3f2](https://github.com/ntalfer/hola/commit/bdcc3f256d5750fba525e5398fa17bdb007242f1))
+
 ## [3.0.1](https://github.com/ntalfer/hola/compare/v3.0.0...v3.0.1) (2025-01-31)
 
 
