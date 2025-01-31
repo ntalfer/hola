@@ -1,12 +1,12 @@
 {
-    "release-type": "ruby",
-    "packages":
-      {
-        ".":
-          {
-            "release-type": "ruby",
-            "package-name": "hola",
-            "version-file": "lib/hola/version.rb"
-          }
-      }
+  "include-component-in-tag": false,
+  "release-type": "ruby",
+  "skip-github-release": false,
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "hola",
+      "version-file": "lib/hola/version.rb"
+    }
   }
+}
