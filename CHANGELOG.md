@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/ntalfer/hola/compare/hola/v1.0.0...hola/v2.0.0) (2025-01-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* **foo:** bar
+
+### Features
+
+* **foo:** bar ([475fb2c](https://github.com/ntalfer/hola/commit/475fb2c583cb708a4884e69a51d6bf79c4b93ef0))
+
 ## 1.0.0 (2025-01-31)
 
 
