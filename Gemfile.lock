@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hola (2.0.0)
+    hola (3.0.0)
 
 GEM
   remote: https://rubygems.org/
