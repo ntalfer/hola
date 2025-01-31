@@ -3,6 +3,7 @@
   "release-type": "ruby",
   "prerelease": true,
   "prerelease-type": "rc",
+  "versioning": "prerelease",
   "packages": {
     ".": {
       "release-type": "ruby",
