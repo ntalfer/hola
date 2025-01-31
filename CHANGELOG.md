@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.0-rc3](https://github.com/ntalfer/hola/compare/v3.2.1-rc3...v3.3.0-rc3) (2025-01-31)
+
+
+### Features
+
+* yo ([df0b7b5](https://github.com/ntalfer/hola/commit/df0b7b51845b6d516b7685b96153d3dac7d25850))
+
 ## [3.2.1-rc3](https://github.com/ntalfer/hola/compare/v3.2.1-rc2...v3.2.1-rc3) (2025-01-31)
 
 
