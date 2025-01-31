@@ -1,0 +1,12 @@
+{
+    "release-type": "ruby",
+    "packages":
+      {
+        ".":
+          {
+            "release-type": "ruby",
+            "package-name": "hola",
+            "version-file": "lib/hola/version.rb"
+          }
+      }
+  }
