@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.2.0](https://github.com/ntalfer/hola/compare/v3.1.0...v3.2.0) (2025-01-31)
+
+
+### Features
+
+* kll ([997494a](https://github.com/ntalfer/hola/commit/997494a1a2ba26c58433e17b6313a319e644fc91))
+
+
+### Bug Fixes
+
+* grrr ([e41611e](https://github.com/ntalfer/hola/commit/e41611ec012d653a7edef3abc9e94ef65939c587))
+
+
+### Miscellaneous Chores
+
+* release 3.2.0.rc1 ([90be393](https://github.com/ntalfer/hola/commit/90be3936f1780e053d936eae852fbdc3e43bf128))
+
 ## [3.1.0](https://github.com/ntalfer/hola/compare/v3.0.1...v3.1.0) (2025-01-31)
 
 
