@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1-rc2](https://github.com/ntalfer/hola/compare/v3.2.1-rc1...v3.2.1-rc2) (2025-01-31)
+
+
+### Bug Fixes
+
+* grrdsghjj ([92a4601](https://github.com/ntalfer/hola/commit/92a4601cb8e032e1c4ac9bb758b82dcd06cce5cd))
+
 ## [3.2.1-rc1](https://github.com/ntalfer/hola/compare/v3.2.0...v3.2.1-rc1) (2025-01-31)
 
 
