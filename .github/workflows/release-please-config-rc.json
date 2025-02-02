@@ -1,0 +1,14 @@
+{
+  "include-component-in-tag": false,
+  "release-type": "ruby",
+  "prerelease-type": "rc1",
+  "versioning": "prerelease",
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "hola",
+      "version-file": "lib/hola/version.rb"
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
