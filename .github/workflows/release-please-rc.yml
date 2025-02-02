@@ -1,0 +1,19 @@
+on:
+  workflow_dispatch:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please rc
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: googleapis/release-please-action@v4
+        with:
+          config-file: .github/workflows/release-please-config-rc.json
+          manifest-file: .github/workflows/.release-please-manifest.json
