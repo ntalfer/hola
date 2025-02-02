@@ -1,8 +1,9 @@
 {
   "include-component-in-tag": false,
   "release-type": "ruby",
-  "prerelease-type": "rc0",
-  "versioning": "prerelease",
+  "prerelease-type": "rc",
+  "prerelease": true,
+  "versioning": "default",
   "packages": {
     ".": {
       "release-type": "ruby",
