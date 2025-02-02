@@ -1,5 +1,5 @@
 on:
-  workflow_dispatch:
+  push:
     branches:
       - main
 
@@ -16,4 +16,4 @@ jobs:
       - uses: googleapis/release-please-action@v4
         with:
           config-file: .github/workflows/release-please-config-rc.json
-          manifest-file: .github/workflows/.release-please-manifest.json
+          manifest-file: .github/workflows/.release-please-manifest-rc.json
