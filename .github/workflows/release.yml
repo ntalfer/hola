@@ -13,6 +13,10 @@ jobs:
     steps:
       - name: Checkout branch
         uses: actions/checkout@v2
+      - name: Setup git
+        run: |
+          git config user.email "foo@example.com"
+          git config user.name "foo"
       - name: Create tag
         run: git tag -s -a ${{ github.event.inputs.tag_name }} -m ${{ github.event.inputs.tag_name }}
       - name: Push tag
