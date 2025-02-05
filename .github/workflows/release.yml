@@ -36,3 +36,4 @@ jobs:
           -f "type=commit" \
           -f "tagger[name]=$TAGGER_NAME" \
           -f "tagger[email]=$TAGGER_EMAIL"
+          echo $?
