@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.2.1]
+
+### Features
+
+* yes!
+
 ## [3.2.0](https://github.com/ntalfer/hola/compare/v3.1.0...v3.2.0) (2025-01-31)
 
 
